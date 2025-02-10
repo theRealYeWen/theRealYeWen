@@ -22,9 +22,6 @@ I believe in balancing work with play, and I’m always up for a good game night
 📫 Let's Connect
 Email: ye.wen1@outlook.com
 
-⚡ Quick Fact
-I once spent an entire weekend debugging a Docker container, only to realize I forgot to expose a port. Lesson learned: always double-check your configs!
-
 <!--
 **theRealYeWen/theRealYeWen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
