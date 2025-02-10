@@ -20,11 +20,7 @@ When I'm not coding, you can find me playing board games, jamming to music, or d
 I believe in balancing work with play, and I’m always up for a good game night!
 
 📫 Let's Connect
-Email: your.email@example.com
-
-LinkedIn: [Your LinkedIn Profile]
-
-Twitter: [@YourUsername]
+Email: ye.wen1@outlook.com
 
 ⚡ Quick Fact
 I once spent an entire weekend debugging a Docker container, only to realize I forgot to expose a port. Lesson learned: always double-check your configs!
