@@ -1,26 +1,23 @@
 ## Hi there 👋 this is Ye Wen
-I'm a full-stack web developer with 2 years of experience, currently diving deep into the world of backend development.
-My tech stack includes Java, Spring Boot, PostgreSQL, Docker, and Kubernetes.
+I'm a full-stack web developer with 2 years of experience, currently specializing in backend development.
+My expertise includes Java, Spring Boot, PostgreSQL, Docker, and Kubernetes, and I’m passionate about building scalable and efficient systems.
 
 🛠️ What I Do
-Building robust and scalable backend systems with Spring Boot and PostgreSQL.
+Design and develop robust, scalable backend systems using Spring Boot and PostgreSQL.
 
-Containerizing applications using Docker and orchestrating them with Kubernetes.
+Containerize applications with Docker and orchestrate them using Kubernetes for seamless deployment and management.
 
-Learning and experimenting with microservices architecture to build distributed systems.
+Experiment with microservices architecture to build distributed systems that are resilient and maintainable.
 
 🌱 What I'm Learning
-Exploring microservices and cloud-native development to level up my backend skills.
+Deep diving into microservices and cloud-native development to enhance my backend expertise.
 
-Trying to understand the magic behind distributed systems and event-driven architectures.
+Exploring the principles of distributed systems and event-driven architectures to build more dynamic and scalable solutions.
 
 🎮 Fun Stuff About Me
-When I'm not coding, you can find me playing board games, jamming to music, or diving into video games.
+When I’m not coding, you can find me playing games, listening to music, or diving into video games.
 
-I believe in balancing work with play, and I’m always up for a good game night!
-
-📫 Let's Connect
-Email: ye.wen1@outlook.com
+I believe in balancing work with play, and I’m always up for a good game night or a lively discussion about tech and games!
 
 <!--
 **theRealYeWen/theRealYeWen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
